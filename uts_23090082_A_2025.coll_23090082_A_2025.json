@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "681c28857ec91e40eebe6dd4"
+  },
+  "nama": "Fahri",
+  "usia": 21,
+  "jurusan": "TI"
+},
+{
+  "_id": {
+    "$oid": "681c28857ec91e40eebe6dd6"
+  },
+  "nama": "Utbah",
+  "alamat": "Dukuhturi"
+}]
